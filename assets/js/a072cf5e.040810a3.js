@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktouchgfx_documentation=self.webpackChunktouchgfx_documentation||[]).push([[952],{86320:function(t){t.exports={blogPosts:[]}}}]);
